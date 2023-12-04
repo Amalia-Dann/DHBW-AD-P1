@@ -1,2 +1,2 @@
 # MEIN ERSTES PROJEKT
-Hallo das ist mein erste Projekt
+Hallo das ist mein erstes Projekt

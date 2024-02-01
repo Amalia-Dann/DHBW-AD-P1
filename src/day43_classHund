@@ -1,0 +1,20 @@
+class Hund:
+    def __init__(self, name, alter):
+        self.name = name
+        self.alter = alter
+
+    def bellen(self):
+        print(f"{self.name} bellt! Wuff Wuff!")
+
+    def spielen(self, stunden):
+        print(f"{self.name} spielt für {stunden} Stunden.")
+
+    def zeige_informationen(self):
+        print(f"{self.name} ist {self.alter} Jahre alt.")
+
+mein_hund = Hund(name="Bello", alter=3)
+
+mein_hund.bellen()
+mein_hund.spielen(stunden=2)
+
+mein_hund.zeige_informationen()

@@ -6,4 +6,4 @@ for i in range(anzahl):
     summe = summe + int(input("Gebe eine Zahl ein: "))
 
 durchschnitt = summe / anzahl
-print("Der Durschnitt ist:",durchschnitt)
+print("Der Durchschnitt ist:",durchschnitt)
